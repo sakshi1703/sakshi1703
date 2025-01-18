@@ -53,3 +53,61 @@ cd smart_scripters
 #run npm run dev on your terminal
 npm run dev
 
+## 🌟 For More Projects:
+Check out my [GitHub Repository](https://github.com/sakshi1703) for more exciting projects!
+
+## 🤝 Connect with Me:
+- [LinkedIn](www.linkedin.com/in/sakshi-thodsare-417169320)
+- [Portfolio]()
+
+## 📅 Milestones:
+- **Projects:** Added 1 project showcasing my core competencies, tagged and pinned for easy access.
+- **README Updates:** All projects include detailed README files with descriptions, installation instructions, and Photos walkthroughs.
+
+## 🔖 Merit Points:
+- **Repositories Starring:** Starred repositories of interest to explore new technologies.
+- **Followers:** Actively engaging with the GitHub community and expanding my network.
+
+## 📂 Popular Repositories:
+Here are some of my highlighted repositories:
+
+- [Masai_Assignment](https://github.com/sakshi1703/Unit-3)  
+  *This belongs to my Unit 3 Assignments.*  
+  **Languages:** HTML  
+
+- [Unit-3](https://github.com/sakshi1703/Unit-3)  
+  *A collection of Unit 3 projects and tasks.*  
+  **Languages:** HTML  
+
+- [Collaborative-Project](https://github.com/sakshi1703/Unit-3)  
+  *WEB214-B39_S06: Code Management Mastery using HTML, CSS, Git, and GitHub.*  
+  **Languages:** HTML  
+
+- [Coding-Evaluation](https://github.com/sakshi1703/Unit-3)  
+  *Coding assignments and tasks for evaluation.*  
+  **Languages:** HTML  
+
+- [Eval-Sprint2](https://github.com/sakshi1703/Unit-3)  
+  *Evaluation project submissions.*  
+  **Languages:** HTML  
+
+---
+
+## 📊 Contribution Activity:
+- **Total Contributions in 2024:** 236 contributions.
+- **Private Contributions:** 40 contributions (not publicly visible).  
+- Here's my GitHub activity graph:
+
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=sakshi1703&theme=radical)
+
+---
+
+## 🚀 Learn More:
+GitHub counts contributions based on the following:
+- Commits pushed to repositories (public or private).
+- Issues opened or commented on.
+- Pull requests created or merged.
+- Reviews submitted for pull requests.
+
+Explore more of my work on my [GitHub profile](https://github.com/sakshi1703). 😊
+
