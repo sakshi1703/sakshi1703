@@ -4,6 +4,12 @@
 ![Profile Picture](https://your-image-url.com)
 
 
+# Frontend Developer
+
+⏳ **Typing...**
+
+
+
 ---
 
 ## 👨‍💻 About Me:
@@ -73,32 +79,36 @@ Check out my [GitHub Repository](https://github.com/sakshi1703) for more excitin
 - **Projects:** Added 1 project showcasing my core competencies, tagged and pinned for easy access.
 - **README Updates:** All projects include detailed README files with descriptions, installation instructions, and Photos walkthroughs.
 
+---
+
 ## 🔖 Merit Points:
 - **Repositories Starring:** Starred repositories of interest to explore new technologies.
 - **Followers:** Actively engaging with the GitHub community and expanding my network.
+
+---
 
 ## 📂 Popular Repositories:
 Here are some of my highlighted repositories:
 
 - [Masai_Assignment](https://github.com/sakshi1703/Unit-3)  
   *This belongs to my Unit 3 Assignments.*  
-  **Languages:** HTML  
+  **Languages:** HTML, CSS, JavaScript, React 
 
 - [Unit-3](https://github.com/sakshi1703/Unit-3)  
   *A collection of Unit 3 projects and tasks.*  
-  **Languages:** HTML  
+  **Languages:** HTML, CSS, JavaScript, React, ChakraUI 
 
-- [Collaborative-Project](https://github.com/sakshi1703/Unit-3)  
+- [Collaborative-Project](https://github.com/shivamtechtecho/CW_Project_RCT-NEM.git)  
   *WEB214-B39_S06: Code Management Mastery using HTML, CSS, Git, and GitHub.*  
-  **Languages:** HTML  
+  **Languages:** HTML, CSS, React, Chakra-UI, Firebase  
 
-- [Coding-Evaluation](https://github.com/sakshi1703/Unit-3)  
+- [Portfolio](https://https://github.com/sakshi1703/Portfoilo)  
   *Coding assignments and tasks for evaluation.*  
-  **Languages:** HTML  
+  **Languages:** HTML, CSS, React  
 
-- [Eval-Sprint2](https://github.com/sakshi1703/Unit-3)  
+- [Eval-Sprint2](https://https://github.com/sakshi1703/QuizApplication)  
   *Evaluation project submissions.*  
-  **Languages:** HTML  
+  **Languages:** HTML, CSS, React
 
 ---
 
