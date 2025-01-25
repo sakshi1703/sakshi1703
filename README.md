@@ -6,7 +6,7 @@
 
 # Frontend Developer
 
-⏳ **Typing...**
+![Typewriter Effect](https://path-to-your-gif.com/typewriter.gif)
 
 
 
