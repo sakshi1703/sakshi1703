@@ -1,6 +1,9 @@
 # 👋 Hi, I'm Sakshi Thodsare
 ### A passionate Full Stack Developer from India 🚀
 
+![Profile Picture](https://your-image-url.com)
+
+
 ---
 
 ## 👨‍💻 About Me:
@@ -9,7 +12,7 @@
 - 👯 Looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **React, JavaScript**
 - 🌏 **Location:** India
-- 📫 **Reach me at:** thodsaresakshi17@gmail.com
+- 📫 **Reach me at:** thodsaresakshi42@gmail.com
 
 I’m a MERN Stack Developer, constantly exploring new technologies and building innovative solutions. Passionate about learning and improving my development skills, I aspire to contribute to meaningful projects and collaborate with other developers.
 
@@ -29,8 +32,10 @@ I’m a MERN Stack Developer, constantly exploring new technologies and building
 ---
 
 ## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shiv2240&show_icons=true&theme=radical)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=shiv2240&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakshi1703&show_icons=true&theme=radical)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=sakshi1703&theme=radical)
+
 
 ---
 
@@ -43,15 +48,16 @@ A bilingual platform (Hindi & English) that streamlines booking flights, stays, 
 - **[Deployed App](https://trezen-smart-scipters.netlify.app/)** | **[GitHub Code](https://github.com/shivamtechtecho/CW_Project_RCT-NEM)**  
 - **Installation Instructions:**
   ```bash
-  
-# Clone the repository
+  # Clone the repository
 git clone https://github.com/shivamtechtecho/CW_Project_RCT-NEM.git
-
-# Navigate into the project directory
+   ### Navigate into the project directory
 cd smart_scripters
 
 #run npm run dev on your terminal
 npm run dev
+
+  
+
 
 ## 🌟 For More Projects:
 Check out my [GitHub Repository](https://github.com/sakshi1703) for more exciting projects!
