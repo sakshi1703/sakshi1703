@@ -1,13 +1,11 @@
 # 👋 Hi, I'm Sakshi Thodsare
-<div style="text-align: center;">
+<p align="center">
+  ### A passionate Full Stack Developer from India 🚀
+  
+  ![Profile Picture](https://drive.google.com/uc?export=view&id=1r_OUl0CBPVtEeXCFOiwxmjBsQDawZIQq)
 
-### A passionate Full Stack Developer from India 🚀
-
-![Profile Picture](https://drive.google.com/uc?export=view&id=1r_OUl0CBPVtEeXCFOiwxmjBsQDawZIQq)
-
-**Frontend Developer**
-
-</div>
+  **Frontend Developer**
+</p>
 
 ---
 
