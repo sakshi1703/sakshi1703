@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sakshi Thodsare
 <p align="center" style="font-size: 24px;">
-  **A passionate Full Stack Developer from India 🚀**
+  <strong>A passionate Full Stack Developer from India 🚀</strong>
 </p>
 
 <p align="center">
@@ -8,7 +8,7 @@
 </p>
 
 <p align="center" style="font-size: 24px; color: #FF6347; font-weight: bold;">
-  **Frontend Developer**
+  <strong>Frontend Developer</strong>
 </p>
 
 ---
