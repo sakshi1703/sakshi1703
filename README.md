@@ -6,7 +6,10 @@
 
 # Frontend Developer
 
-![Typewriter Effect](https://path-to-your-gif.com/typewriter.gif)
+Check out my typewriter effect on [GitHub Pages](https://sakshi1703.github.io/sakshi1703//).
+
+
+https://sakshi1703.github.io/sakshi1703/
 
 
 
