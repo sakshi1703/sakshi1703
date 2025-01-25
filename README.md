@@ -4,6 +4,11 @@
 ![Profile Picture](https://your-image-url.com)
 
 
+![Typewriter Effect](https://github.com/sakshi1703/sakshi1703/blob/main/index.html)
+
+**Frontend Developer**
+---
+
 # Frontend Developer
 
 Check out my typewriter effect on [GitHub Pages](https://sakshi1703.github.io/sakshi1703//).
