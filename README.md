@@ -41,7 +41,7 @@ I’m a MERN Stack Developer, constantly exploring new technologies and building
 
 ## 🏆 Projects:
 ### **1. Trezen: Simplified Travel Planning:** Fullstack  
-- **Technologies:** HTMl, ChakraUI, React, Firebase  
+- **Technologies:** HTMl, Cha kraUI, React, Firebase  
 - **Description:** 
 Trezen: Simplified Travel Planning
 A bilingual platform (Hindi & English) that streamlines booking flights, stays, and activities, while offering personalized trip recommendations for a hassle-free experience.  
@@ -49,12 +49,12 @@ A bilingual platform (Hindi & English) that streamlines booking flights, stays, 
 - **Installation Instructions:**
   ```bash
   # Clone the repository
-git clone https://github.com/shivamtechtecho/CW_Project_RCT-NEM.git
+  git clone https://github.com/shivamtechtecho/CW_Project_RCT-NEM.git
    ### Navigate into the project directory
-cd smart_scripters
+   cd smart_scripters
 
-#run npm run dev on your terminal
-npm run dev
+  #run npm run dev on your terminal
+  npm run dev
 
   
 
@@ -62,9 +62,12 @@ npm run dev
 ## 🌟 For More Projects:
 Check out my [GitHub Repository](https://github.com/sakshi1703) for more exciting projects!
 
+---
+
 ## 🤝 Connect with Me:
 - [LinkedIn](www.linkedin.com/in/sakshi-thodsare-417169320)
 - [Portfolio]()
+---
 
 ## 📅 Milestones:
 - **Projects:** Added 1 project showcasing my core competencies, tagged and pinned for easy access.
