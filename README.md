@@ -1,22 +1,12 @@
 # 👋 Hi, I'm Sakshi Thodsare
 ### A passionate Full Stack Developer from India 🚀
 
-![Profile Picture](https://your-image-url.com)
+![Profile Picture](https://drive.google.com/uc?export=view&id=1r_OUl0CBPVtEeXCFOiwxmjBsQDawZIQq)
 
 
-![Typewriter Effect](https://github.com/sakshi1703/sakshi1703/blob/main/index.html)
+
 
 **Frontend Developer**
----
-
-# Frontend Developer
-
-Check out my typewriter effect on [GitHub Pages](https://sakshi1703.github.io/sakshi1703//).
-
-
-https://sakshi1703.github.io/sakshi1703/
-
-
 
 ---
 
