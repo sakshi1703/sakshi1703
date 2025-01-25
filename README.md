@@ -1,17 +1,15 @@
 # 👋 Hi, I'm Sakshi Thodsare
-<p align="center" style="font-size: 24px; font-weight: normal;">
-  A passionate Full Stack Developer from India 🚀
+<p align="center" style="font-size: 24px;">
+  **A passionate Full Stack Developer from India 🚀**
 </p>
-
 
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1r_OUl0CBPVtEeXCFOiwxmjBsQDawZIQq" width="200" />
 </p>
 
 <p align="center" style="font-size: 24px; color: #FF6347; font-weight: bold;">
-  Frontend Developer
+  **Frontend Developer**
 </p>
-
 
 ---
 
