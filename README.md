@@ -25,7 +25,7 @@
 - 🎓 **Recently completed Full Stack Web Development**
 - 🔍 Actively seeking job opportunities in **Full Stack Development**
 - 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **React, JavaScript**
+- 💬 Ask me about **React, DSA, JavaScript**
 - 🌏 **Location:** India
 - 📫 **Reach me at:** thodsaresakshi42@gmail.com
 
