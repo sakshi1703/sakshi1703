@@ -13,6 +13,10 @@
 
 ---
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ## 👨‍💻 About Me:
 - 🎓 **Recently completed Full Stack Web Development**
 - 🔍 Actively seeking job opportunities in **Full Stack Development**
