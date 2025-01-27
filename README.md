@@ -33,6 +33,14 @@ I’m a MERN Stack Developer, constantly exploring new technologies and building
 
 ---
 
+## 🤝 Connect with Me:
+- [LinkedIn]()
+- [sakshi Thodsare](www.linkedin.com/in/sakshi-thodsare-417169320)
+- [Instagram](https://www.instagram.com/__sakshi_17_/)
+- [Portfolio]()
+
+---
+
 ## 🛠️ Tech Stack:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
