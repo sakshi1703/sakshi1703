@@ -1,4 +1,8 @@
 # 👋 Hi, I'm Sakshi Thodsare
+
+![Profile views](https://komarev.com/ghpvc/?username=sakshi1703)
+
+
 <p align="center" style="font-size: 24px;">
   <strong>A passionate Full Stack Developer from India 🚀</strong>
 </p>
@@ -49,7 +53,7 @@ I’m a MERN Stack Developer, constantly exploring new technologies and building
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=sakshi1703&theme=radical)
 
-![sakshi1703](https://img.shields.io/badge/ShivamTechTecho-Profile-blue?logo=github&logoColor=white&style=flat-square)
+![sakshi1703](https://img.shields.io/badge/sakshi1703-Profile-blue?logo=github&logoColor=white&style=flat-square)
 
 
 ---
