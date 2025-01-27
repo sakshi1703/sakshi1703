@@ -22,8 +22,8 @@
 ---
 
 ## 👨‍💻 About Me:
-- 🎓 **Recently completed Full Stack Web Development**
-- 🔍 Actively seeking job opportunities in **Full Stack Development**
+- 🎓 **Recently working on new projects**
+- 🔍 Actively seeking job opportunities in **FrontEnd Development**
 - 👯 Looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **React, DSA, JavaScript**
 - 🌏 **Location:** India
@@ -34,10 +34,14 @@ I’m a MERN Stack Developer, constantly exploring new technologies and building
 ---
 
 ## 🤝 Connect with Me:
-- [LinkedIn]()
-- [sakshi Thodsare](www.linkedin.com/in/sakshi-thodsare-417169320)
+- [Linkedin](www.linkedin.com/in/sakshi-thodsare-417169320)
 - [Instagram](https://www.instagram.com/__sakshi_17_/)
 - [Portfolio]()
+
+---
+
+## 🌟 For More Projects:
+Check out my [GitHub Repository](https://github.com/sakshi1703) for more exciting projects!
 
 ---
 
@@ -69,7 +73,7 @@ I’m a MERN Stack Developer, constantly exploring new technologies and building
 
 ## 🏆 Projects:
 ### **1. Trezen: Simplified Travel Planning:** Fullstack  
-- **Technologies:** HTMl, Cha kraUI, React, Firebase  
+- **Technologies:** HTMl, ChakraUI, React, Firebase  
 - **Description:** 
 Trezen: Simplified Travel Planning
 A bilingual platform (Hindi & English) that streamlines booking flights, stays, and activities, while offering personalized trip recommendations for a hassle-free experience.  
@@ -84,17 +88,27 @@ A bilingual platform (Hindi & English) that streamlines booking flights, stays, 
   #run npm run dev on your terminal
   npm run dev
 
-  
+
+### **1. WeatherApp: Real-time Weather Forecast:** Fullstack  
+- **Technologies:** HTML, React, Vite, Chakra UI, OpenWeather API  
+- **Description:**  
+WeatherApp provides real-time weather updates and a 5-day weather forecast. Users can search for weather details for any city and view the forecast along with weather conditions such as temperature, humidity, and wind speed.  
+- **[Deployed App](a-weatherforecast.netlify.app)** | **[GitHub Code](https://github.com/sakshi1703/WeatherForecast)**  
+- **Installation Instructions:**
+  ```bash
+  # Clone the repository
+  git clone https://github.com/sakshi1703/WeatherForecast
+
+  ### Navigate into the project directory
+  cd weather_app
+
+  # Install dependencies
+  npm install
+
+  # Run the development server
+  npm run dev
 
 
-## 🌟 For More Projects:
-Check out my [GitHub Repository](https://github.com/sakshi1703) for more exciting projects!
-
----
-
-## 🤝 Connect with Me:
-- [LinkedIn](www.linkedin.com/in/sakshi-thodsare-417169320)
-- [Portfolio]()
 ---
 
 ## 📅 Milestones:
