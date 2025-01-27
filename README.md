@@ -53,7 +53,8 @@ I’m a MERN Stack Developer, constantly exploring new technologies and building
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=sakshi1703&theme=radical)
 
-![sakshi1703](https://img.shields.io/badge/sakshi1703-Profile-blue?logo=github&logoColor=white&style=flat-square)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi1703&layout=compact&theme=dark)
+
 
 
 ---
