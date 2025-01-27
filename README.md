@@ -33,6 +33,8 @@ I’m a MERN Stack Developer, constantly exploring new technologies and building
 ![Chakra UI](https://img.shields.io/badge/Chakra--UI-319795?logo=chakra-ui&logoColor=white&style=flat-square)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
+![Babel](https://img.shields.io/badge/Babel-F9DC3E?logo=babel&logoColor=black&style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=flat-square)
 
@@ -42,6 +44,8 @@ I’m a MERN Stack Developer, constantly exploring new technologies and building
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakshi1703&show_icons=true&theme=radical)
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=sakshi1703&theme=radical)
+
+![sakshi1703](https://img.shields.io/badge/ShivamTechTecho-Profile-blue?logo=github&logoColor=white&style=flat-square)
 
 
 ---
