@@ -112,7 +112,7 @@ Unity Hub is a platform designed to foster collaboration and community engagemen
 - **Technologies:** HTML, React, Vite, Chakra UI, OpenWeather API  
 - **Description:**  
 WeatherApp provides real-time weather updates and a 5-day weather forecast. Users can search for weather details for any city and view the forecast along with weather conditions such as temperature, humidity, and wind speed.  
-- **[Deployed App](a-weatherforecast.netlify.app)** | **[GitHub Code](https://github.com/sakshi1703/WeatherForecast)**  
+- **[Deployed App](https://a-weatherforecast.netlify.app/)** | **[GitHub Code](https://github.com/sakshi1703/WeatherForecast)**  
 - **Installation Instructions:**
   ```bash
   # Clone the repository
