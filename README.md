@@ -72,7 +72,7 @@ Check out my [GitHub Repository](https://github.com/sakshi1703) for more excitin
 ---
 
 ## 🏆 Projects:
-### **1. Trezen: Simplified Travel Planning:** Fullstack  
+### **1. Trezen: Simplified Travel Planning:** FrontEnd 
 - **Technologies:** HTMl, ChakraUI, React, Firebase  
 - **Description:** 
 Trezen: Simplified Travel Planning
@@ -89,7 +89,26 @@ A bilingual platform (Hindi & English) that streamlines booking flights, stays, 
   npm run dev
 
 
-### **1. WeatherApp: Real-time Weather Forecast:** Fullstack  
+### **2. Unity Hub: Collaborative Community Platform** Fullstack  
+- **Technologies:** HTMl, CSS, React, Node.js, Express.js ,Socket.io (for real-time updates), JWT for authentication
+- **Databases:** MongoDB, Other Libraries/Modules:, bcrypt for password hashing, dotenv for environment variable management, nodemon for development server auto-restarts
+- **Description:** 
+Unity Hub is a platform designed to foster collaboration and community engagement. It provides a seamless experience for users to connect, share resources, and participate in discussions. The platform is built to enhance community interactions with an intuitive interface and real-time updates.
+- **[Deployed App]( http://unity-hub.netlify.app)** | **[GitHub Code](https://github.com/vinit3200/B42_WEB_067_Scripting-Stars)**  
+- **Installation Instructions:**
+  ```bash
+  # Clone the repository
+  git clone git clone https://github.com/vinit3200/B42_WEB_067_Scripting-Stars
+   ### Navigate into the project directory
+   cd Unity_hub
+
+  #run npm run dev on your terminal
+  npm run dev
+  
+
+
+
+### **1. WeatherApp: Real-time Weather Forecast:** FrontEnd  
 - **Technologies:** HTML, React, Vite, Chakra UI, OpenWeather API  
 - **Description:**  
 WeatherApp provides real-time weather updates and a 5-day weather forecast. Users can search for weather details for any city and view the forecast along with weather conditions such as temperature, humidity, and wind speed.  
