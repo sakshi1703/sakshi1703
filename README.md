@@ -36,7 +36,7 @@ I’m a MERN Stack Developer, constantly exploring new technologies and building
 ## 🤝 Connect with Me:
 - [Linkedin](www.linkedin.com/in/sakshi-thodsare-417169320)
 - [Instagram](https://www.instagram.com/__sakshi_17_/)
-- [Portfolio]()
+- [Portfolio](https://sakshi-thodsare.netlify.app)
 
 ---
 
